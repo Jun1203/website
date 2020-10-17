@@ -1,0 +1,29 @@
+ul {
+    background-color:cyan;
+    border:5px solid black;
+}
+body {
+    background-image: url("https://lh3.googleusercontent.com/proxy/F2su_ysZyUP7CAVHhYgUuTUFa-Ma9-DNGKbtfmdJRWQc8DO5JrlH84fkAWsZSx5zzpbaLb_Pk1R0i8z0ENe6yjLjrkcJ41S2");
+    color:#6ac959;
+    font-family: 'Nunito', sans-serif;
+    text-align:center;
+}
+img {
+    border:5px groove #ffabee;
+}
+h1 {
+    display: inline-block;
+	text-decoration: none;
+	background:#8afbff;
+	color: #234445;
+	width: 70px;
+	height: 60px;
+	line-height: 60px;
+    border-radius:30px;
+	text-align: center;
+	font-weight: bold;
+    border: 3px solid black;
+    position: relative;
+ 	animation-name: animation;
+    animation: animation 10s infinite;
+}
